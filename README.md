@@ -1,4 +1,4 @@
-# First-Project-2
+# First-Project
 This is my first Git Repository,
 <br>
 Author - Sumaira.
